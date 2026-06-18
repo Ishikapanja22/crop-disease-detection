@@ -59,7 +59,6 @@ crop-disease-detection/
 │   ├── utils
 │   ├── app.py                   
 │   ├── server.js                
-│   ├── package.json
 │   └── requirement.txt
 │
 └── frontend/
@@ -71,5 +70,4 @@ crop-disease-detection/
     │   ├── App.js
     │   ├── App.css
     │   └── index.js
-    └── package.json
 
