@@ -54,14 +54,14 @@ npm run dev
 ## 📁 Folder Structure
 crop-disease-detection/
 ├── backend/
-│   ├── model/
-│   │   └── plant_ml.keras       
-│   ├── utils
-│   ├── app.py                   
-│   ├── server.js                
-│   └── requirement.txt
-│
-└── frontend/
+   ├── model/
+     └── plant_ml.keras       
+   ├── utils
+   ├── app.py                   
+   ├── server.js                
+   └── requirement.txt
+
+|── frontend/
     ├── public/
     │   ├── index.html
     │   ├── manifest.json        
